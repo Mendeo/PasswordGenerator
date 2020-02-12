@@ -1,0 +1,4 @@
+0.3 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0.3 abcdefghijklmnopqrstuvwxyz
+0.2 0123456789
+0.2 ~!@#$%^&*'"
